@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     decort = {
-      version = "4.9.3"
+      version = "4.9.4"
       source  = "basis/decort/decort"
     }
   }
